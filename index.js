@@ -41,3 +41,4 @@ const titleCased = () =>{
 }
 const titleCasedTutorial = titleCased();
 console.log(titleCasedTutorial)
+
